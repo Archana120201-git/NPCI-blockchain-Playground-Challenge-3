@@ -1,7 +1,7 @@
 # Playground-Challenge-3 : Bank Loan Management System on Hyperledger Fabric
 
 ## Description
-This project demonstrates a blockchain-based bank loan management system using Hyperledger Fabric. The system supports loan applications, approvals, repayments, and balance inquiries.
+The objective of this project is to build a blockchain-based bank loan management system using Hyperledger Fabric. The system will support loan applications, approvals, repayments, and balance inquiries.
 
 ## Getting Started
 1. **Install Dependencies**:
