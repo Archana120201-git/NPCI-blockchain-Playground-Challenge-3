@@ -29,3 +29,6 @@ The objective of this project is to build a blockchain-based bank loan managemen
 
 ## TODO
 Refer to `TODO.md` for remaining implementation tasks.
+
+## Submission
+Commit your code to the Github code repository
